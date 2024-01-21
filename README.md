@@ -19,13 +19,9 @@ I'm a passionate **Full Stack Developer** based in Bengaluru, India. Welcome to 
 
 Here are some projects I'm proud of:
 
-1. **FundooNotesAPP & FundooNotesAPI**
-   - Developed a full-stack application for note-taking.
-   - Front-end: HTML, CSS, Angular
-   - Back-end: Python, Django, PostgreSQL
-
-2. [Project 2](Link to Project 2) - Brief description.
-3. [Project 3](Link to Project 3) - Brief description.
+1. [Contacts Management App](https://github.com/AmitM0287/contact-app.git) - This app allows you to effortlessly add, update, and delete contacts, ensuring your contact book is always up to date. With the ability to retrieve all contacts, sorting options for seamless organization, and an intuitive search feature, finding the right contact has never been easier.
+   
+2. [Realtime Chat App](https://github.com/AmitM0287/chat-app) - A real time chat application using react https://amkr-chat-app.vercel.app/
 
 Feel free to explore more on my [GitHub repositories](https://github.com/AmitM0287).
 
