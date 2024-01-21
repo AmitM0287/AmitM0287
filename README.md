@@ -19,11 +19,11 @@ I'm a passionate **Full Stack Developer** based in Bengaluru, India. Welcome to 
 
 Here are some projects I'm proud of:
 
-1. **[Contacts Management App](https://github.com/AmitM0287/contact-app.git)** - This app allows you to effortlessly add, update, and delete contacts, ensuring your contact book is always up to date. With the ability to retrieve all contacts, sorting options for seamless organization, and an intuitive search feature, finding the right contact has never been easier.
-   
-2. **[Realtime Chat App](https://github.com/AmitM0287/chat-app)** - A real-time chat application using React [Live Demo](https://amkr-chat-app.vercel.app/)
+- **[Contacts Management App](https://github.com/AmitM0287/contact-app.git)** - This app allows you to effortlessly add, update, and delete contacts, ensuring your contact book is always up to date. With the ability to retrieve all contacts, sorting options for seamless organization, and an intuitive search feature, finding the right contact has never been easier.
 
-3. **[FundooNotesAPP & FundooNotesAPI](https://github.com/AmitM0287?tab=repositories)** - Developed the front-end application FundooNotesApp using HTML, CSS, and Angular, and the back-end application FundooNotesAPI utilizing Python, Django, and PostgreSQL. Implemented diverse functionalities within the application, encompassing note creation, updating, deletion, trashing, archiving, unarchiving, and more.
+- **[Realtime Chat App](https://github.com/AmitM0287/chat-app)** - A real-time chat application using React [Live Demo](https://amkr-chat-app.vercel.app/)
+
+- **[FundooNotesAPP & FundooNotesAPI](https://github.com/AmitM0287?tab=repositories)** - Developed the front-end application FundooNotesApp using HTML, CSS, and Angular, and the back-end application FundooNotesAPI utilizing Python, Django, and PostgreSQL. Implemented diverse functionalities within the application, encompassing note creation, updating, deletion, trashing, archiving, unarchiving, and more.
 
 Feel free to explore more on my [GitHub repositories](https://github.com/AmitM0287?tab=repositories).
 
