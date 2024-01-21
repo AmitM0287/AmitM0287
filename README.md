@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Amit Manna!
 
-I'm a passionate **Full Stack Developer** based in Howrah, West Bengal, India. Welcome to my GitHub profile! 🚀
+I'm a passionate **Full Stack Developer** based in Bengaluru, India. Welcome to my GitHub profile! 🚀
 
 ## 🌐 About Me
 
 - 🎓 **Education:** B.Tech in Electronics and Communication Engineering from SDET, MAKAUT (WBUT)
 - 🏢 **Work:** Currently a **Data Engineering Analyst** at Accenture, Bengaluru
-- 🌱 **Learning:** Data Structures & Algorithms at Scaler Academy
+- 🌱 **Learning:** Data Structures & Algorithms
 
 ## 🔧 Technologies & Tools
 
