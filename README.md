@@ -41,8 +41,6 @@ Feel free to explore more on my [GitHub repositories](https://github.com/AmitM02
 - HTML, CSS, SCSS, TypeScript, Angular, Highcharts, BootStrap
 
 ## 📚 Education
-
-- **Scaler Academy:** Data Structures & Algorithms (Sept 2022 - Ongoing)
 - **SDET, MAKAUT (WBUT):** B.Tech in Electronics and Communication Engineering (2017 - 2021)
 
 ## 📊 GitHub Stats
