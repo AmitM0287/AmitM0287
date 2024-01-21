@@ -50,6 +50,6 @@ Feel free to explore more on my [GitHub repositories](https://github.com/AmitM02
 
 ## ❤️ Support
 
-If you find my work helpful, consider supporting me by following me.
+If you find my work helpful, consider supporting me then follow me.
 
 Thanks for visiting! ✨
