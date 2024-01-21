@@ -10,10 +10,10 @@ I'm a passionate **Full Stack Developer** based in Bengaluru, India. Welcome to 
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript
-- **Frameworks:** Django, Angular
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **Other Skills:** Git, Pandas, SQLAlchemy
+- **Frontend:** HTML, CSS, SCSS, Bootstrap, Angular, Highcharts, Material UI, ReactJS, Redux, JavaScript, TypeScript
+- **Backend:** Python, Django, Pandas, SQLAlchemy, NodeJS, ExpressJS
+- **Databases:** PostgreSQL, MongoDB, Redis, OpenTSDB
+- **Tools:** Git, Postman, Visual Studio Code
 
 ## 🚀 Projects
 
@@ -23,18 +23,13 @@ Here are some projects I'm proud of:
    
 2. [Realtime Chat App](https://github.com/AmitM0287/chat-app) - A real time chat application using react https://amkr-chat-app.vercel.app/
 
-Feel free to explore more on my [GitHub repositories](https://github.com/AmitM0287).
+Feel free to explore more on my [GitHub repositories](https://github.com/AmitM0287?tab=repositories).
 
 ## 🏆 Achievements
 
 - 🏆 **Python (Basic):** Certified by HackerRank
 - 🌟 **Star Performer at CodinClub:** Certificate from CodinClub Bootcamp at BridgeLabz
 
-## 🛠️ Skills
-
-- Git, Python, Django, Django REST framework, Pandas
-- PostgreSQL, MongoDB, Redis, OpenTSDB
-- HTML, CSS, SCSS, TypeScript, Angular, Highcharts, BootStrap
 
 ## 📚 Education
 - **SDET, MAKAUT (WBUT):** B.Tech in Electronics and Communication Engineering (2017 - 2021)
