@@ -37,7 +37,7 @@ Feel free to explore more on my [GitHub repositories](https://github.com/AmitM02
 
 ![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitM0287&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark)
 
-## 📈 GitHub Streak
+## 🔥 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmitM0287&theme=dark)](https://git.io/streak-stats)
 
