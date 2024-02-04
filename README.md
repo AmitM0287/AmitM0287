@@ -5,7 +5,7 @@ I'm a passionate **Software Development Engineer (Full Stack)** based in Bengalu
 ## 🌐 About Me
 
 - 🎓 **Education:** B.Tech in Electronics and Communication Engineering from SDET, MAKAUT (WBUT)
-- 🏢 **Work:** Currently a ** Software Development Engineer (Full Stack) ** at Flutura (An Accenture Company), Bengaluru
+- 🏢 **Work:** Currently a **Software Development Engineer (Full Stack)** at Flutura (An Accenture Company), Bengaluru
 - 🌱 **Learning:** Data Structures & Algorithms
 
 ## 🔧 Technologies & Tools
