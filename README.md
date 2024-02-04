@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Amit Manna!
 
-I'm a passionate **Full Stack Developer** based in Bengaluru, India. Welcome to my GitHub profile! 🚀
+I'm a passionate **Software Development Engineer (Full Stack)** based in Bengaluru, India. Welcome to my GitHub profile! 🚀
 
 ## 🌐 About Me
 
@@ -34,22 +34,15 @@ Feel free to explore more on my [GitHub repositories](https://github.com/AmitM02
 
 ## 📚 Work Experience
 
-### Data Engineering Analyst | Accenture | Bengaluru, Karnataka, India | Nov 2023 - Ongoing
+### Software Development Engineer (Full Stack)
+## Flutura (An Accenture Company)        (Sep 2021 - Present)  Bengaluru
+- Collaborated on the development and integration of over 20 front-end and back-end product enhancement projects and features, resulting in a substantial reduction in manual intervention, heightened application security, and increased user productivity. Notable contributions encompassed creating a data quality dashboard, designing a nested parameter list, constructing a sales dashboard, and developing a performance analysis save template, custom encryption and decryption, Excel upload feature for configuring digital twin, bulk upload feature in Asset Timeline Page, and others.
+Utilized a diverse tech stack, contributing to an accelerated development cycle and enhancing system performance. Technologies included Python, Django, Pandas, Angular, TypeScript, HTML, CSS, Bootstrap, Highcharts, PostgreSQL, MongoDB, Redis, OpenTSDB, Git and others.
 
-- Developed multiple dashboards using the Angular and Django frameworks for our clients.
-- Resolved numerous software bugs through debugging techniques within the applications.
-
-### Programmer - Full Stack | Flutura Decision Sciences & Analytics | Bengaluru, Karnataka, India | Sep 2021 - Oct 2023
-
-- Designed and implemented a number of stand-alone Python programs, including ATL Bulk Upload and Custom Encryption Decryption, among others.
-- Collaborated on numerous front-end and back-end product enhancement projects, working on features like PA Save Template, DQ Dashboard, and Nested Param List, among others.
-- Resolved numerous software bugs through debugging techniques within the applications.
-
-### Fellowship Engineer | BridgeLabz Solutions LLP | Bengaluru, Karnataka, India | Feb 2021 - Aug 2021
-
-- Acquired fundamental knowledge in programming principles.
-- Obtained proficiency in utilizing the Angular and Django frameworks.
-- Developed the FundooNotesAPP front-end application using the Angular framework and the FundooNotesAPI back-end application using the Django framework.
+### Fellowship Engineer (Full Stack)
+## BridgeLabz Solutions        (Feb 2021 - Aug 2021)  Bengaluru
+- Attained proficiency in Angular and Django frameworks, leading to a substantial 20% reduction in development time.
+- Applied expertise to design and implement both front-end and back-end applications for NotesApp, utilizing a diverse tech stack including Python, Django, Angular, TypeScript, HTML, CSS, PostgreSQL, Git, and other technologies.
 
 ## 📊 GitHub Stats
 
