@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Amit Manna!
 
-I'm a passionate **Software Development Engineer (Full Stack)** based in Bengaluru, India. Welcome to my GitHub profile! 🚀
+I'm a passionate **Software Development Engineer (Full Stack)** based in Howrah, India. Welcome to my GitHub profile! 🚀
 
 ## 🌐 About Me
 
 - 🎓 **Education:** B.Tech in Electronics and Communication Engineering from SDET, MAKAUT (WBUT)
-- 🏢 **Work:** Currently a **Software Development Engineer (Full Stack)** at Flutura (An Accenture Company), Bengaluru
+- 🏢 **Work:** Currently a **Software Development Engineer (Full Stack)** at Accenture, Bengaluru
 - 🌱 **Learning:** Data Structures & Algorithms
 
 ## 🔧 Technologies & Tools
@@ -23,7 +23,7 @@ Here are some projects I'm proud of:
 
 - **[Realtime Chat App](https://github.com/AmitM0287/chat-app)** - A real-time chat application using React [Live Demo](https://amkr-chat-app.vercel.app/)
 
-- **[FundooNotesAPP & FundooNotesAPI](https://github.com/AmitM0287?tab=repositories)** - Developed the front-end application FundooNotesApp using HTML, CSS, and Angular, and the back-end application FundooNotesAPI utilizing Python, Django, and PostgreSQL. Implemented diverse functionalities within the application, encompassing note creation, updating, deletion, trashing, archiving, unarchiving, and more.
+- **[FundooNotesAPI](https://github.com/AmitM0287/fundoo-notes-api) & [FundooNotesAPP](https://github.com/AmitM0287/fundoo-notes-app)** - Developed the front-end application FundooNotesApp using HTML, CSS, and Angular, and the back-end application FundooNotesAPI utilizing Python, Django, and PostgreSQL. Implemented diverse functionalities within the application, encompassing note creation, updating, deletion, trashing, archiving, unarchiving, and more.
 
 Feel free to explore more on my [GitHub repositories](https://github.com/AmitM0287?tab=repositories).
 
@@ -34,8 +34,8 @@ Feel free to explore more on my [GitHub repositories](https://github.com/AmitM02
 
 ## 📚 Work Experience
 
-## Software Development Engineer (Full Stack)
-  ### Flutura (An Accenture Company) Sep 2021 - Present, Bengaluru
+## Full Stack LLM Development Analyst (Full Stack)
+  ### Accenture Sep 2021 - Present, Bengaluru
   - Collaborated on the development and integration of over 20 front-end and back-end product enhancement projects and features, resulting in a substantial reduction in manual intervention, heightened application security, and increased user productivity. Notable contributions encompassed creating a data quality dashboard, designing a nested parameter list, constructing a sales dashboard, and developing a performance analysis save template, custom encryption and decryption, Excel upload feature for configuring digital twin, bulk upload feature in Asset Timeline Page, and others.
   - Utilized a diverse tech stack, contributing to an accelerated development cycle and enhancing system performance. Technologies included Python, Django, Pandas, Angular, TypeScript, HTML, CSS, Bootstrap, Highcharts, PostgreSQL, MongoDB, Redis, OpenTSDB, Git and others.
 
